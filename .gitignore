@@ -1,0 +1,9 @@
+#Object file
+*.o
+
+#Executable file
+dmenu stest 
+
+#Tar file
+*.tar.gz
+
